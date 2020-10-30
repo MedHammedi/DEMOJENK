@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        logger( "Hello Build auto :o" );
+        logger( "Hello " );
     }
 }
