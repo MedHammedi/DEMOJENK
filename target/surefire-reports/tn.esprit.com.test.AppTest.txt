@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: tn.esprit.com.test.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.102 sec <<< FAILURE! - in tn.esprit.com.test.AppTest
-shouldAnswerWithTrue(tn.esprit.com.test.AppTest)  Time elapsed: 0.029 sec  <<< FAILURE!
-java.lang.AssertionError
-	at tn.esprit.com.test.AppTest.shouldAnswerWithTrue(AppTest.java:18)
-
